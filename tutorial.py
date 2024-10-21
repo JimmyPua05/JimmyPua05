@@ -39,7 +39,7 @@ for x in np.nditer(np5):
 np6=np.array([[1,2,3],[4,5,6],[7,8,9],[10,11,12]])
 print(np6)
 
-#np.sort sort
+#np.sort sort yoyoyo
 '''
 filtered=np5>2
 print(np5)
